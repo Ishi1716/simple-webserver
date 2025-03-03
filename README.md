@@ -22,7 +22,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-'''html
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -65,11 +65,11 @@ Testing the webserver.
   
 </body>
 </html>
-'''
+```
 
 
 ## OUTPUT:
-![output](./statics/ishi.png)
+![output](./static/ishi.png)
 
 
 ## RESULT:
